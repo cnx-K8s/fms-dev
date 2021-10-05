@@ -3,12 +3,12 @@ entries:
   fms-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T11:43:25.1565248+05:30"
+    created: "2021-10-05T12:53:53.4201588+05:30"
     description: A Helm chart for FMS GKE
-    digest: c07efafa8401e354bc0d5a427d334d33c9a4c926dfcb8a011c88178cd591f496
+    digest: 1b795eb9c0d2b2748b8c87d8b84c1b0bac4cca29dfb80c46d6702e547b01bd89
     name: fms-chart
     type: application
     urls:
     - fms-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-05T11:43:25.1510801+05:30"
+generated: "2021-10-05T12:53:53.4151531+05:30"
